@@ -1,0 +1,2 @@
+git config --global user.email "sunil.kumar@indiapicture.in"
+git config --global user.name "sunilcpr"
